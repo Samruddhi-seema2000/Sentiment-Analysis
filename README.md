@@ -1,2 +1,3 @@
 # Sentiment-Analysis
 ....
+Amazon E-Commerce Review Sentiment Analysis evaluates customer feedback on Amazon products to determine sentiment—positive, negative, or neutral—using NLP and machine learning. The project classifies review sentiment and provides insights into customer satisfaction, helping businesses understand opinions, identify trends, and improve products and services.
